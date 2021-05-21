@@ -9,9 +9,6 @@ npm i -g moolahh
 
 ## 📈 Usage
 
-[parameters] - Optional
-<parameters> - Required
-
 Get latest exchange rates. Base currency can be passed as an optional parameter. By default it is USD
 
 ```shell
