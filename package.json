@@ -1,0 +1,29 @@
+{
+  "name": "moolahh",
+  "version": "1.0.0",
+  "description": "A CLI Tool to get real time exchange rates for over 168 world currencies",
+  "main": "src/cli.js",
+  "preferGlobal": true,
+  "bin": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "money",
+    "converter"
+  ],
+  "author": "Abhishek Mogaveera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek971999/moolahh/issues"
+  },
+  "homepage": "https://github.com/Abhishek971999/moolahh#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "cli-table": "^0.3.6",
+    "commander": "^7.2.0",
+    "dotenv": "^9.0.2"
+  }
+}
